@@ -1,0 +1,16 @@
+symboling,normalized_losses,make,fuel_type,aspiration,num_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_of_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price,updated_price,num_doors_int
+0,81,chevrolet,gas,std,four,sedan,fwd,front,94.5,158.8,63.6,52,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6575,6575,4
+1,118,dodge,gas,std,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.41,68,5500,37,41,5572,5572,2
+1,118,dodge,gas,std,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6377,6377,2
+1,118,dodge,gas,turbo,two,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,four,98,mpfi,3.03,3.39,7.6,102,5500,24,30,7957,7957,2
+1,148,dodge,gas,std,four,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,6229,4
+1,148,dodge,gas,std,four,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,6692,4
+1,148,dodge,gas,std,four,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,7609,4
+-1,110,dodge,gas,std,four,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,four,122,2bbl,3.34,3.46,8.5,88,5000,24,30,8921,8921,4
+3,145,dodge,gas,turbo,two,hatchback,fwd,front,95.9,173.2,66.3,50.2,2811,ohc,four,156,mfi,3.6,3.9,7,145,5000,19,24,12964,12964,2
+2,137,honda,gas,std,two,hatchback,fwd,front,86.6,144.6,63.9,50.8,1713,ohc,four,92,1bbl,2.91,3.41,9.6,58,4800,49,54,6479,6479,2
+2,137,honda,gas,std,two,hatchback,fwd,front,86.6,144.6,63.9,50.8,1819,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,31,38,6855,6855,2
+1,101,honda,gas,std,two,hatchback,fwd,front,93.7,150,64,52.6,1837,ohc,four,79,1bbl,2.91,3.07,10.1,60,5500,38,42,5399,5399,2
+1,101,honda,gas,std,two,hatchback,fwd,front,93.7,150,64,52.6,1940,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,6529,6529,2
+1,101,honda,gas,std,two,hatchback,fwd,front,93.7,150,64,52.6,1956,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7129,7129,2
+0,110,honda,gas,std,four,sedan,fwd,front,96.5,163.4,64,54.5,2010,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7295,7295,4

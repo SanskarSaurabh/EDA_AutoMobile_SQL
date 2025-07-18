@@ -1,0 +1,16 @@
+symboling,normalized_losses,make,fuel_type,aspiration,num_of_doors,body_style,drive_wheels,engine_location,wheel_base,length,width,height,curb_weight,engine_type,num_of_cylinders,engine_size,fuel_system,bore,stroke,compression_ratio,horsepower,peak_rpm,city_mpg,highway_mpg,price,updated_price,num_doors_int
+1,,porsche,gas,std,two,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohcv,eight,203,mpfi,3.94,3.11,10,288,5750,17,28,,,2
+0,,isuzu,gas,std,four,sedan,fwd,front,94.5,155.9,63.6,52,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,,,4
+1,,isuzu,gas,std,two,sedan,fwd,front,94.5,155.9,63.6,52,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,,,2
+0,,audi,gas,turbo,two,hatchback,4wd,front,99.5,178.2,67.9,52,3053,ohc,five,131,mpfi,3.13,3.4,7,160,5500,16,22,,,2
+1,,porsche,gas,std,two,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohcv,eight,203,mpfi,3.94,3.11,10,288,5750,17,28,,,2
+0,,isuzu,gas,std,four,sedan,fwd,front,94.5,155.9,63.6,52,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,,,4
+1,,isuzu,gas,std,two,sedan,fwd,front,94.5,155.9,63.6,52,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,,,2
+0,,audi,gas,turbo,two,hatchback,4wd,front,99.5,178.2,67.9,52,3053,ohc,five,131,mpfi,3.13,3.4,7,160,5500,16,22,,,2
+2,,renault,gas,std,two,hatchback,fwd,front,96.1,176.8,66.6,50.5,2460,ohc,four,132,mpfi,3.46,3.9,8.7,,,23,31,9895,9895,2
+0,,renault,gas,std,four,wagon,fwd,front,96.1,181.5,66.5,55.2,2579,ohc,four,132,mpfi,3.46,3.9,8.7,,,23,31,9295,9295,4
+2,,renault,gas,std,two,hatchback,fwd,front,96.1,176.8,66.6,50.5,2460,ohc,four,132,mpfi,3.46,3.9,8.7,,,23,31,9895,9895,2
+0,,renault,gas,std,four,wagon,fwd,front,96.1,181.5,66.5,55.2,2579,ohc,four,132,mpfi,3.46,3.9,8.7,,,23,31,9295,9295,4
+3,150,mazda,gas,std,two,hatchback,rwd,front,95.3,169,65.7,49.6,2500,rotor,two,80,mpfi,,,9.4,135,6000,16,23,15645,15645,2
+3,150,mazda,gas,std,two,hatchback,rwd,front,95.3,169,65.7,49.6,2385,rotor,two,70,4bbl,,,9.4,101,6000,17,23,13645,13645,2
+3,150,mazda,gas,std,two,hatchback,rwd,front,95.3,169,65.7,49.6,2380,rotor,two,70,4bbl,,,9.4,101,6000,17,23,11845,11845,2
